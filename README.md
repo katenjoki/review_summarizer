@@ -1,15 +1,15 @@
 # Abstractive Summarization of Amazon Product Reviews using LLMs
 
-##Table of Contents
+## Table of Contents
 
-- [Problem Statement](Problem-Statement)
-- [Data](Data)
-- [Model Selection](Model-Selection)
-- [Adapting the model](Adapting-the-model)
-- [Evaluation](Evaluation)
-  - [Human Evaluation](Human-evaluation)
-  - [ROUGE Metrics](ROUGE-metrics)
-- [Challenges & Considerations](Chalenges-&-Considerations)
+- [Problem Statement](#Problem-Statement)
+- [Data](#Data)
+- [Model Selection](#Model-Selection)
+- [Adapting the model](#Adapting-the-model)
+- [Evaluation](#Evaluation)
+  - [Human Evaluation](#Human-evaluation)
+  - [ROUGE Metrics](#ROUGE-metrics)
+- [Challenges & Considerations](#Chalenges-&-Considerations)
 
   
 ## Problem Statement
