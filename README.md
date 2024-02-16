@@ -45,6 +45,11 @@ Model Summary:
 
 ### ROUGE Metrics
 
+ROUGE (Recall Oriented Understudy) is a metric used for text summarization.
+
+Compares the quality of model generated summaries to human-generated reference summaries.
+
+
 ![barplot](bart_rouge.png)
 
 ## Challenges & Considerations
